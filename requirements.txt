@@ -1,0 +1,16 @@
+#Core dependencies
+streamlit
+pydantic
+python-dotenv
+
+#AI Dependencies
+openai
+anthropic
+
+#Data Handling
+pandas
+json
+
+#Development 
+pytest
+
